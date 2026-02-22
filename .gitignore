@@ -146,6 +146,7 @@ venv.bak/
 
 # Secrets
 .secrets/
+.env.local
 
 # Model weights / large files
 *.pt

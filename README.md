@@ -54,9 +54,9 @@ A single audio file with distinct voices per character, natural transitions, and
 git clone https://github.com/LyricWinter/lyri.git
 cd lyri
 
-# Create secrets directory (gitignored)
-# Place your HuggingFace token here:
-echo "hf_your_token_here" > .secrets/hf_token
+# Configure secrets
+cp .env.template .env.local
+# Edit .env.local with your HuggingFace token
 ```
 
 ## Project Structure
