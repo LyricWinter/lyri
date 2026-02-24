@@ -1,5 +1,7 @@
 # lyri
 
+IN DEVELOPMENT!!!
+
 Single-shot multi-character prosody-aware TTS.
 
 One model. One pass. All characters.
